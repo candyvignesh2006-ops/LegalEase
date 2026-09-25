@@ -1,1 +1,1 @@
-"""AI provider integrations."""
+"""Export formatters for generated drafts."""
